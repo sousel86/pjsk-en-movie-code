@@ -1,7 +1,8 @@
 # COLORFUL STAGE! THE MOVIE: A MIKU WHO CAN'T SING Code Generator
-A python script that will generate a random codes of COLORFUL STAGE! THE MOVIE: A MIKU WHO CAN'T SING and claim it automatically once the generated code is working.
-
-
+A python script that will generate a random codes of Project Sekai En/Global Server from COLORFUL STAGE! THE MOVIE: A MIKU WHO CAN'T SING and claim it automatically once the generated code is working.
+<br>
+![TIL](https://raw.githubusercontent.com/jcgaming-official/pjsk-en-movie-code/refs/heads/main/sample.gif)
+<br>
 ## Features 
 - [x] Endless Scraping
 - [x] EN/Global Server
