@@ -24,3 +24,9 @@ Run the script
 ```
 python3 scrape.py
 ```
+
+
+#COLORFULSTAGE!THEMOVIE:AMIKUWHOCAN'TSING <br>
+#projectsekai <br>
+#colorfulstagethemovie <br>
+#hatsunemikucolorfulstage
